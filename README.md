@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Devanshi-Shah-07/LeetCodes/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devanshi-Shah-07/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1140-stone-game-ii](https://github.com/Devanshi-Shah-07/LeetCodes/tree/master/1140-stone-game-ii) |
 ## Math
@@ -34,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Devanshi-Shah-07/LeetCodes/tree/master/0026-remove-duplicates-from-sorted-array) |
+## String
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Devanshi-Shah-07/LeetCodes/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Devanshi-Shah-07/LeetCodes/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
